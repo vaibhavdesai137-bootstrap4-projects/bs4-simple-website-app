@@ -12,7 +12,7 @@ img {
     width: auto;
 }
 
-#cover {
+.cover {
     background: #222 url(../img/stars.jpg) center center no-repeat;
     background-size: cover;
     height: 100%;
@@ -22,16 +22,13 @@ img {
     align-items: center;
 }
 
-#cover-caption {
+.cover-caption {
     width: 100%;
 }
 
 .section-cards {
     padding: 5rem 0 5rem 0;
-}
-
-.section-cards img {
-    max-width: 450px;    
+    width: 100%;
 }
 
 .section-about {
