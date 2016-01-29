@@ -9,6 +9,9 @@
 # Components:
 * Bootstrap v4.0.0-alpha.2
 * Cover Page
+* Navigation
+* Cards With Fixed Sizes
+* Cards With Random Sizes
 * Carousel
 * Modals
 * Flex Display
