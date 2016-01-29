@@ -4,6 +4,10 @@ html, body {
     height: 100%;
 }
 
+img {
+    max-width: 100%;
+}
+
 .container {
     width: auto;
 }
@@ -20,4 +24,24 @@ html, body {
 
 #cover-caption {
     width: 100%;
+}
+
+.section-cards {
+    padding: 5rem 0 5rem 0;
+}
+
+.section-about {
+    background: url(../img/girlincar.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.about-text {
+    background: rgba(0, 0, 0, 0.8);
+    color: #FFF;
+    padding: 1.875rem;
+    margin: 2.22rem 0;
+}
+
+.section-news {
+    padding: 5rem 0 5rem 0;
 }
