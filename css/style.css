@@ -28,7 +28,10 @@ img {
 
 .section-cards {
     padding: 5rem 0 5rem 0;
-    max-width: 100%;
+}
+
+.section-cards img {
+    max-width: 600px;    
 }
 
 .section-about {
