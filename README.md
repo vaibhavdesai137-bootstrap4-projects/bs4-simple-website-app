@@ -4,7 +4,7 @@
 2. This is just a front end template. No functionality implemented
 3. Udemy course: https://www.udemy.com/bootstrap-4/learn
 4. Hosted at: https://bs4-simple-website-app.herokuapp.com/
-5. Cool Factor: Bootstrap 4 Baby!!!
+5. Cool Factor: **Bootstrap 4 Baby!!!**
 
 # Components:
 * Bootstrap v4.0.0-alpha.2
